@@ -11,8 +11,10 @@ __programming languages:__
 - 🐍 Python
 - 🌐 HTML, CSS
 - 📱 Javascript
-- 💻 C         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yachi-qwq)](https://github.com/anuraghazra/github-readme-stats)
+- 💻 C        
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yachi-qwq&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yachi-qwq&show_icons=true&theme=radical)
 

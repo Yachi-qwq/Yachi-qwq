@@ -12,3 +12,5 @@ Skills: PYTHON / C / JS / HTML / CSS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Yachi-qwq)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://shippodes.mx177013.repl.co/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/6AGcPaJteK)  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yachi-qwq&show_icons=true&theme=radical)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Yachi-qwq&theme=radical)  

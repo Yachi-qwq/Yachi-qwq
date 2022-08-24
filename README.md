@@ -14,6 +14,6 @@ __programming languages:__
 - 💻 C        
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yachi-qwq&theme=radical)](https://github.com/anuraghazra/github-readme-stats) ![Profile views](https://gpvc.arturio.dev/Yachi-qwq&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yachi-qwq&theme=radical)](https://github.com/anuraghazra/github-readme-stats) ![Profile views](https://gpvc.arturio.dev/Yachi-qwq)  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yachi-qwq&show_icons=true&theme=radical)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Yachi-qwq&theme=radical)  

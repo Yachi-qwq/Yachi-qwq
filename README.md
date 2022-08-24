@@ -1,6 +1,6 @@
 ### Heyo people 🐈
 #### My name's Yachi 🐈
-![My name's Yachi 🐈](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![My name's Yachi 🐈]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://cdn.discordapp.com/attachments/979393985913171994/1011909297661300786/unknown.png))
 
 My name is Yachi and I am a hooby developer. My main language is python. I am interrested in things like cyber security, steganography and Discord bots. I am also into web-developing and building basic websites with js, html and css. 
 

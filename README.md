@@ -18,4 +18,4 @@ __programming languages:__
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yachi-qwq&show_icons=true&theme=radical)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Yachi-qwq&theme=radical)  
 
-![Discord](https://img.shields.io/badge/%3Discord/mj8zBCdZHU%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white).
+![Discord](https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)

@@ -4,7 +4,7 @@
    🐾 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Yachi-qwq)     🐾 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://shippodes.mx177013.repl.co/)     🐾 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/U2ZFKnHABg)     🐾 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Sensitive_Race_5802)  
    
 
-My name is Yachi and I am a hobby developer from Astria. My main language is python. I am interrested in things like cyber security, steganography and Discord bots. I am also into web-developing and building basic websites with javascript, html and css. Currently I am learning c++, javascript and also started with Android app developing with Koptlin and Python (Kivy) ![Profile views](https://gpvc.arturio.dev/Yachi-qwq)  
+My name is Yachi and I am a hobby developer from Astria. My main language is python. I am interrested in things like cyber security, steganography and Discord bots. I am also into web-developing and building basic websites with javascript, html and css. Currently I am learning c++, javascript and also started getting into Android app developing with Koptlin and Python (Kivy) ![Profile views](https://gpvc.arturio.dev/Yachi-qwq)  
 
 __programming languages:__ 
 

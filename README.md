@@ -16,4 +16,4 @@ __programming languages:__
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yachi-qwq&theme=radical&layout=compact)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 ![image]((https://github-readme-stats.vercel.app/api?username={Yachi-qwq}))
-g <img src="{https://github-readme-stats.vercel.app/api?username={Yachi-qwq}}" />
+<img src="{https://github-readme-stats.vercel.app/api?username={Yachi-qwq}}" />

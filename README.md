@@ -15,3 +15,4 @@ __programming languages:__
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yachi-qwq&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yachi-qwq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

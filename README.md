@@ -14,4 +14,4 @@ __programming languages:__
 - 💻・ ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yachi-qwq&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yachi-qwq&theme=radical&layout=compact)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)

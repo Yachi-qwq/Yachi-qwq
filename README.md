@@ -5,7 +5,7 @@
    
 
 My name is Yachi and I am a hobby developer from Astria. My main language is python. I am interrested in things like cyber security, steganography and Discord bots. I am also into web-developing and building basic websites with javascript, html and css. Currently I am learning c++, javascript and also started getting into Android app developing with Koptlin and Python (Kivy) ![Profile views](https://gpvc.arturio.dev/Yachi-qwq)  
-
+##
 __programming languages:__ 
 
 - 🐍・ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

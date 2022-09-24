@@ -15,4 +15,4 @@ __programming languages:__
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yachi-qwq&theme=radical&layout=compact)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-https://github-readme-stats.vercel.app/api?username={Yachi-qwq}
+![image](https://github-readme-stats.vercel.app/api?username={Yachi-qwq})

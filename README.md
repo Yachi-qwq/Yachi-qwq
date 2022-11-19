@@ -15,5 +15,3 @@ __programming languages:__
 
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yachi-qwq&theme=radical&layout=compact)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)

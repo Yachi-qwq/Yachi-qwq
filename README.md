@@ -33,7 +33,7 @@
  
   <div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Yachi-qwq&show_icons=true&theme=highcontrast" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yachi-qwq&hide=html&layout=compact&theme=highcontrast" />
+  <img height="150px" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Yachi-qwq&hide=html&layout=compact&theme=highcontrast](https://github-readme-stats.vercel.app/api/top-langs/?username=Yachi-qwq&theme=radical&layout=compact)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)" />
  </div>
  
  

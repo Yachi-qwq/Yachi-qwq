@@ -32,7 +32,7 @@
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
  
   <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Yachi-qwq&show_icons=true&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Yachi-qwq&show_icons=true&theme=radical&layout=compact" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yachi-qwq&theme=radical&layout=compact" />
  </div>
  

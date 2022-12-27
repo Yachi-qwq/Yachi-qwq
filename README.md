@@ -15,14 +15,14 @@
 <p align="center">
   
   
-# My Social Networks
+# Contact me
 
 [![Discord][1.2]][1]
 
 [1.2]: https://skillicons.dev/icons?i=discord&perline=3
 [1]: https://discord.com/users/810598137541820508
 
-* My social networks to connect with me
+* If you want to contact me (idk why you would but yeah) here you go
 
 # Github Stats
 

@@ -25,7 +25,7 @@
   
 # Contact me
 
-[![Discord][1.2]][1] [![Instagram][1.2][2]
+[![Discord][1.2]][1] [![Instagram][1.1][2]
 
 [1.2]: https://skillicons.dev/icons?i=discord&perline=3
 [1.1]: https://skillicons.dev/icons?i=instagram&perline=3

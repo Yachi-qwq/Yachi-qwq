@@ -14,13 +14,22 @@
 </p>
 <p align="center">
   
+ # currently learning
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,kotlin,mysql,pytorch,rust" />
+  </a>
+</p>
+<p align="center">
+  
   
 # Contact me
 
-[![Discord][1.2]][1]
+[![Discord][1.2]][1] [![Instagram][1.2][2]
 
 [1.2]: https://skillicons.dev/icons?i=discord&perline=3
 [1]: https://discord.com/users/810598137541820508
+[2]: https://www.instagram.com/yachi._.uwu_hehe/
 
 * If you want to contact me (idk why you would but yeah) here you go
 

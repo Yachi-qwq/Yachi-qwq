@@ -15,7 +15,7 @@
 <p align="center">
  
   
- ###
+ <br>
  # currently learning
   <p align="center">
   <a href="https://skillicons.dev">
@@ -24,7 +24,7 @@
 </p>
 <p align="center">
   
-###
+<br>
 # Contact me
 
 [![Discord][1.2]][1] [![Instagram][1.1]][2]

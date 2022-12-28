@@ -28,6 +28,7 @@
 [![Discord][1.2]][1] [![Instagram][1.2][2]
 
 [1.2]: https://skillicons.dev/icons?i=discord&perline=3
+[1.1]: https://skillicons.dev/icons?i=instagram&perline=3
 [1]: https://discord.com/users/810598137541820508
 [2]: https://www.instagram.com/yachi._.uwu_hehe/
 

@@ -3,7 +3,7 @@
 <p align="center">
 
 <p align="center">
-  Heyo I'm Yachi, hobby developer ![](https://komarev.com/ghpvc/?username=Yachi-qwq&color=blueviolet)
+  Heyo I'm Yachi, hobby developer <a>https://komarev.com/ghpvc/?username=Yachi-qwq&color=blueviolet</a>
 <p align="center">
 
 # My Skills

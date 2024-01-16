@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.mJrAd8TDLUvO-yuGzNKajwHaHT%26pid%3DApi&f=1&ipt=a2c576194d297c855e6f7f64171654a3e543357f66746860d04985723d286cb8&ipo=images">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.M9UpJPCBRKl9U2JKDqJPhgHaEK%26pid%3DApi&f=1&ipt=52d3754780d941e8109d1a0bb5312dbf21d6fe26a1611ecaee2df8cdcd9adfe3&ipo=images">
 <p align="center">
 
 <p align="center">

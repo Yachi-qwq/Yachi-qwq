@@ -15,7 +15,7 @@
  # currently learning
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,kotlin,mysql,pytorch,rust" />
+    <img src="https://skillicons.dev/icons?i=go,kotlin,mysql,pytorch,rust,swift" />
   </a>
 </p>
 <p align="center">

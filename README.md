@@ -1,6 +1,11 @@
 <p align="center">
   Heyo I'm Yachi, hobby developer
 <p align="center">
+ My core expertise includes hardware-level programming in C and Python, along with building decryption systems and server architectures using Python.
+ Currently I'm trying to learn app development using Kotlin or Swift
+<p align="center">
+  
+<p align="center">
 
 # My Skills
 <p align="center">

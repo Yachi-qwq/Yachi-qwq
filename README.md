@@ -30,15 +30,19 @@
 
 # Github Stats
 
-<details close="true">
-  <summary><b>:gear: &nbsp;Git statistics</b></summary>
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
 
- ![](./profile-3d-contrib/profile-night-rainbow.svg)
- 
-  <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Yachi-qwq&show_icons=true&theme=radical&layout=compact" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yachi-qwq&theme=radical&layout=compact" />
- </div>
- 
- 
- </details>
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Yachi-qwq&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yachi-qwq&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="160em" src="https://streak-stats.demolab.com?user=Yachi-qwq&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yachi-qwq&theme=radical&no-frame=true&margin-w=10&row=1"/>
+</p>

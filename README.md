@@ -28,10 +28,3 @@
   
   
 
-# Github Stats
-
-
-
-<p align="center">
-  <img height="160em" src="https://streak-stats.demolab.com?user=Yachi-qwq&theme=radical&hide_border=true"/>
-</p>

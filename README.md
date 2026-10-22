@@ -47,5 +47,5 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yachi-qwq&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yachi-qwq&layout=compact&theme=vue-dark&hide_border=true&bg_color=0d1117" />
 </p>

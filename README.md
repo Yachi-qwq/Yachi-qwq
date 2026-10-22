@@ -1,7 +1,7 @@
-<h3 align="center">Heyo, I'm Yachi 👋</h3>
+<h3 align="center">Heyo, I'm Yachi </h3>
 
 <p align="center">
-  <b>Backend & Systems Engineer | Cryptography & Hardware Enthusiast</b>
+  <b>Backend & Systems | Cryptography & Hardware Enthusiast</b>
 </p>
 
 <p align="center">
@@ -20,10 +20,15 @@
   <p>
     <img src="https://skillicons.dev/icons?i=c,python,arduino,raspberrypi" />
   </p>
-* **Backend & Cryptography:** 
+
+* **Backend, Cryptography & Server Structures:** 
   <p>
-    <img src="https://skillicons.dev/icons?i=js,flask,mysql" />
+    <img src="https://skillicons.dev/icons?i=js,flask,mysql,firebase" />
   </p>
+  <p>
+    <em>Focus: Server architectures, database management, and Firebase backend services.</em>
+  </p>
+
 * **Industrial Automation:** 
   * Siemens TIA Portal (*FUP, SCL, KOP*)
 

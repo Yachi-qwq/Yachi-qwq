@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🌐 <a href="DEINE_WEBSEITE_URL">Check out my Retro Terminal Portfolio</a>
+  🌐 <a href="https://yachi-qwq.github.io/aboutme/">Check out my Retro Terminal Portfolio</a>
 </p>
 
 ---
